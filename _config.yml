@@ -23,10 +23,10 @@ author:
   name: Aden Davies
   twitter: aden_76
   picture:
-twitter_username:
+twitter_username: aden_76
 github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
-search: # true, false (default)
+search: true
 search_full_content: false # true, false (default)
 search_provider: # lunr (default), algolia
 algolia:
