@@ -16,7 +16,7 @@
 lang: en-US
 title: Test Title
 email:
-description:
+description: What does this do then? 
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: https://aden76.github.io
 author:
