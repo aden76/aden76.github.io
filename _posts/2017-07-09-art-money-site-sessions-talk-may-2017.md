@@ -1,3 +1,4 @@
+---
 title: Art & Money - Site Sessions Talk - May 2017
 link: http://www.adendavies.com/art-money-site-sessions-talk-may-2017/
 author: aden_76
@@ -9,6 +10,7 @@ comment_status: open
 post_name: art-money-site-sessions-talk-may-2017
 status: publish
 post_type: post
+---
 
 # Art & Money - Site Sessions Talk - May 2017
 
