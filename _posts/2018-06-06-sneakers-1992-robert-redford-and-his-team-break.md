@@ -1,3 +1,4 @@
+---
 title: Sneakers - Futuristic Film Money
 link: http://www.adendavies.com/sneakers-1992-robert-redford-and-his-team-break/
 author: aden_76
@@ -9,6 +10,7 @@ comment_status: open
 post_name: sneakers-1992-robert-redford-and-his-team-break
 status: publish
 post_type: post
+---
 
 # Sneakers - Futuristic Film Money
 
