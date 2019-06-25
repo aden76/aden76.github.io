@@ -1,3 +1,4 @@
+---
 title: About
 link: http://www.adendavies.com/about/
 author: aden_76
@@ -6,9 +7,10 @@ post_id: 2
 created: 2010/01/06 17:42:32
 created_gmt: 2010/01/06 17:42:32
 comment_status: closed
-post_name: about
+post_name: About
 status: publish
 post_type: page
+---
 
 # About
 
