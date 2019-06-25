@@ -1,6 +1,5 @@
 ---
 title: About
-post_type: page
 layout: about
 ---
 
