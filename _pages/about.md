@@ -10,6 +10,7 @@ comment_status: closed
 post_name: About
 status: publish
 post_type: page
+layout: about
 ---
 
 # About
