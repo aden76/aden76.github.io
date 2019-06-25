@@ -1,6 +1,6 @@
 ---
-title: CV
+title: Category Archive
 layout: category
 ---
 
-testing....
+testing....should list all posts with a cateogry
