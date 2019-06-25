@@ -3,8 +3,6 @@ title: About
 layout: about
 ---
 
-**About**
-
 Head of product at U Account. This [blog](/articles/) is my attempt to write semi-coherently and increasingly infrequently about innovation,  technology, banking and a few other things. You can find me a these places more frequently 
 
   * [Twitter](http://@aden_76)
