@@ -1,6 +1,7 @@
 ---
 title: About
-link: http://www.adendavies.com/about/
+link: https://aden76.github.io/about/
+permalink: https://aden76.github.io/about/
 author: aden_76
 description: 
 post_id: 2
