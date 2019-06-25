@@ -4,8 +4,8 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://aden76.github.io/_pages/about.md
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+   - title: "Weeknotes"
+     url: /weeknotes/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
