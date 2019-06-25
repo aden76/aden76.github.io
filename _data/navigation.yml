@@ -3,7 +3,7 @@ main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
-    url: https://aden76.github.io/_pages/about/
+    url: https://aden76.github.io/about/
   - title: "Weeknotes"
     url: https://aden76.github.io/weeknotes/
   # - title: "Sample Collections"
