@@ -1,15 +1,5 @@
 ---
 title: About
-link: https://aden76.github.io/about/
-permalink: https://aden76.github.io/about/
-author: aden_76
-description: 
-post_id: 2
-created: 2010/01/06 17:42:32
-created_gmt: 2010/01/06 17:42:32
-comment_status: closed
-post_name: About
-status: publish
 post_type: page
 layout: about
 ---
@@ -22,7 +12,10 @@ Head of product at U Account. This [blog](/articles/) is my attempt to write se
   * [Linked In](http://www.linkedin.com/in/adendavies)
   * [Slideshare](http://www.slideshare.net/aden_76)
   * [Instagram](http://instagram.com/aden_76)
-I also run a Twitter bot that collates Financial Technology News, [@FintechBot](http://twitter.com/fintechbot).  You can find out more about the how and why of it over [here](/about-fintechbot/).   **Stuff I have done elsewhere that may still be available**
+
+I also run a Twitter bot that collates Financial Technology News, [@FintechBot](http://twitter.com/fintechbot).  You can find out more about the how and why of it over [here](/about-fintechbot/).   
+
+**Stuff I have done elsewhere that may still be available**
 
   * Had an article published in Banking Technology (online and print). [Is fintech to banking what craft ale is to brewing?](http://www.bankingtech.com/927311/is-fintech-to-banking-what-craft-ale-is-to-brewing/)
   * Appeared as a host on several episodes of the [Fintech Insider Podcast](https://11fs.com/insights/fintech-insider/), most recently [Episode 268](https://11fs.com/podcasts/ep-268-news-raining-money-durham/) on the 28th of June 2017
